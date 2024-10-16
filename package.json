@@ -1,0 +1,12 @@
+{
+  "name": "alikhlas",
+  "version": "1.0.0",
+  "description": "Sistem Manajemen Travel Haji &amp; Umrah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
