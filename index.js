@@ -2,10 +2,8 @@
 import express from "express";
 import dotenv from "dotenv";
 import userRouter from './routes/user.route.js';
-<<<<<<< HEAD
 import middleware from './configs/middleware.js'; // jika berada di subfolder
-=======
->>>>>>> ff227010a2ef868e9e8a5e6c5d550c9c7d30c384
+
 dotenv.config(); // Pastikan dotenv di-load untuk mengakses variabel environment
 
 import { db } from "./configs/db.js";  // Mengimpor koneksi DB dari file db.js
@@ -48,8 +46,4 @@ app.use("*", (req, res) => {
 // Menjalankan server Express
 app.listen(PORT, () => {
     console.log(`Server started, Listening on port ${PORT}`);
-<<<<<<< HEAD
 });
-=======
-});
->>>>>>> ff227010a2ef868e9e8a5e6c5d550c9c7d30c384
