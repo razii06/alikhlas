@@ -3,16 +3,16 @@ import { db } from "./configs/db.js";
 
 const users = [
     {
-    username: "nathan121",
-    email: "nathan@mail.com",
+    username: "fajar",
+    email: "fajar@mail.com",
     password: "$2b$10$vD5yRWdxLp1j6riuSi/Ozu71x145viXeGC7AHT5R0WcycGalmYTae",
     avatar: "https://g.codewithnathan.com/default-user.png",
     createdAt: new Date().toISOString(),
     updatedAt: new Date().toISOString(),
     },
     {
-    username: "jane78",
-    email: "jane@mail.com",
+    username: "razi",
+    email: "razi@mail.com",
     password: "$2b$10$vD5yRWdxLp1j6riuSi/Ozu71x145viXeGC7AHT5R0WcycGalmYTae",
     avatar: "https://g.codewithnathan.com/default-user.png",
     createdAt: new Date().toISOString(),

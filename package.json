@@ -1,5 +1,5 @@
 {
-<<<<<<< HEAD
+
   "name": "server",
   "version": "1.0.0",
   "main": "index.js",
@@ -17,8 +17,7 @@
     "mongodb": "^6.10.0"
   },
   "devDependencies": {
-    "nodemon": "^3.1.7"
-=======
+  "nodemon": "^3.1.7",
   "name": "alikhlas",
   "version": "1.0.0",
   "description": "Sistem Manajemen Travel Haji &amp; Umrah",
@@ -36,6 +35,6 @@
     "express-session": "^1.18.1",
     "mysql": "^2.18.1",
     "req-flash": "^0.0.3"
->>>>>>> 6e56227c72837991bbece3b7776decf6b2d55564
+    }
   }
 }
